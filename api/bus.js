@@ -1,5 +1,3 @@
-import 'dotenv/config';
-
 /**
  * Calculates minutes remaining until arrival from an ISO timestamp string.
  * Returns:

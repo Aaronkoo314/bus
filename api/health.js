@@ -1,5 +1,3 @@
-import 'dotenv/config';
-
 function sendResponse(res, statusCode, data) {
   if (typeof res.status === 'function' && typeof res.json === 'function') {
     return res.status(statusCode).json(data);
