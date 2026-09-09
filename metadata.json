@@ -1,0 +1,6 @@
+{
+  "name": "Singapore Bus Arrival",
+  "description": "Live bus arrival panel displaying upcoming arrivals by service with auto-refresh, powered by LTA DataMall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
